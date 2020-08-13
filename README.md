@@ -3,7 +3,7 @@ Traumatic brain injury effects millions of Americans each year. In addition to t
 
 ## Technical Details
 
-The TBI project is written and built in C++ and may be run in a windows environment. Output files will generate all data used in any upcoming publications. To run a given output file download the zipped release data, unzip the data then navigate to the folder with the file TBISimulator.exe, then from the command line type '''./TBISimulator.exe Input_Files/Inputs_For_All_Data/Input_14Day_L0_Drug60_P8_3MD_150R_1.00A.txt```
+The TBI project is written and built in C++ and may be run in a windows environment. Output files will generate all data used in any upcoming publications. To run a given output file download the zipped release data, unzip the data then navigate to the folder with the file TBISimulator.exe, then from the command line type ```./TBISimulator.exe Input_Files/Inputs_For_All_Data/Input_14Day_L0_Drug60_P8_3MD_150R_1.00A.txt```
 
 This command will run the given configuration file. For details see our upcoming publication.
 
