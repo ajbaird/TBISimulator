@@ -3,25 +3,25 @@ Traumatic brain injury effects millions of Americans each year. In addition to t
 
 ## Technical Details
 
-The TBI project is written and built in C++ and may be run in a windows environment. Output files will generate all data used in any upcoming publication
+The TBI project is written and built in C++ and may be run in a windows environment. Output files will generate all data used in any upcoming publications. To run a given output file download the zipped release data, unzip the data then navigate to the folder with the file TBISimulator.exe, then from the command line type '''./TBISimulator.exe Input_Files/Inputs_For_All_Data/Input_14Day_L0_Drug60_P8_3MD_150R_1.00A.txt```
 
-## Accessing the Game
-The pre-built Alpha game is available in the releases tab. Navigate to that window in github ([here](https://github.com/BioGearsEngine/BurnCare/releases)).
-To run the game download the zip file, unzip the windowsBurnCare.zip file, and navigate to the following folder: 
+This command will run the given configuration file. For details see our upcoming publication.
 
-- `WindowsNoEditor/`
-   - `Game/` 
-     - `Binaries/` 
-  	   - `Win64/` 
+## Accessing the Executable
+The the code base is pre-built for the Windows platform and available in the releases tab. Navigate to that window in github ([here](https://github.com/ajbaird/TBISimulator/releases/tag/v0.1)).
+To run the executable download the zip file, unzip the x64-Release.zip file, and navigate to the following folder: 
+
+- `x64-Release/`
+   - `Input_Files/` 
 	
-From this folder double click (or run) the executable titled Game-Win64-Shipping.exe. This should boot the game. If you have issues please contact: abaird@ara.com.
+From this folder, open a command line window and type  ```.././TBISimulator.exe Input_Files/Inputs_For_All_Data/Input_14Day_L0_Drug60_P8_3MD_150R_1.00A.txt```. This should run the .txt executable file the game. If you have issues please contact: abaird@ara.com.
 
 Programmatics
 ===============
-The BurnCare project is funded by contract number: W911NF-18-C-0037  
+The multiscale TBI project is funded under contract number: W911NF-17-1-0572  
 
 Disclaimer:
 
-This work is supported by the US Army Medical Research and Materiel Command. The views, opinions and/or findings contained in this report are those of the author(s) and should not be construed as an official Department of the Army position, policy, or decision unless so designated by other documentation.
+This work is supported by the Army Research Labs. The views, opinions and/or findings contained in this report are those of the author(s) and should not be construed as an official Department of the Army position, policy, or decision unless so designated by other documentation.
 
 
