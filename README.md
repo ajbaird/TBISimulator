@@ -24,4 +24,10 @@ Disclaimer:
 
 This work is supported by the Army Research Labs. The views, opinions and/or findings contained in this report are those of the author(s) and should not be construed as an official Department of the Army position, policy, or decision unless so designated by other documentation.
 
+DOI and Refs
+===============
+[![DOI](https://zenodo.org/badge/287111993.svg)](https://zenodo.org/badge/latestdoi/287111993)
+
+
+
 
